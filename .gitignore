@@ -1,0 +1,8 @@
+node_modules/
+.env
+sim-output/
+coverage/
+*.log
+
+# Planning docs I keep locally
+*.docx
