@@ -181,7 +181,4 @@ There's no real bank or gateway integration, no refunds (double payments are onl
 
 MIT
 # UPI-reconciliation-engine.
-#   U P I - r e c o n c i l i a t i o n - e n g i n e .  
- #   U P I - r e c o n c i l i a t i o n - e n g i n e .  
- #   U P I - r e c o n c i l i a t i o n - e n g i n e .  
- 
+#
